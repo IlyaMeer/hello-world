@@ -6,7 +6,8 @@ p1{
  font-size: 25px;
 }
 
-#fads {
+#fads p{
  margin: 10px;
+ margin-top: 2cm;
  font-family: Helvetica;
 }
